@@ -14,7 +14,7 @@ let package = Package(
         )
     ],
     dependencies: [
-        .package(name: "MetricsReporter", url: "https://github.com/rudderlabs/metrics-reporter-ios", from: "1.2.1"),
+        .package(name: "MetricsReporter", url: "https://github.com/Alterplay/metrics-reporter-ios", from: "1.2.1"),
     ],
     targets: [
         .target(
